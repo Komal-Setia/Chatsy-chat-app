@@ -33,7 +33,7 @@ a {
 	cursor: pointer;
 	padding: 5px 15px;
 	background: var(--light-color);
-	color: var(--dark-color-a);
+	color: #fff;
 	border: 0;
 	font-size: 17px;
 }
